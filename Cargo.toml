@@ -1,7 +1,10 @@
 [package]
-name = "logdog"
+name = "logdog" 
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
+description = "A command-line tool for bug bounty hunters to log steps and capture terminal output."
+license = "MIT"
+repository = "https://github.com/blooberri/logdog"
 
 [dependencies]
-clap = { version = "4.5.60", features = ["derive"] }
+clap = { version = "4.4", features = ["derive"] }
