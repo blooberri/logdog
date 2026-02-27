@@ -1,3 +1,4 @@
+<img width="603" height="536" alt="image" src="https://github.com/user-attachments/assets/2e802d7c-3828-47e5-bb72-5053614b94ed" />
 # 🐕 LogDog: The Hacker's Best Friend
 
 > A blazingly fast, terminal-native reporting engine for bug bounty hunters and penetration testers, written in Rust.
